@@ -16,7 +16,7 @@ Comment ajouter JavaScript :<br>
 .avec un fichier externe<br>
 Mes premières lignes de code<br>
 .alert() dans le HTML<br>
-//<!DOCTYPE html><br>
+<!DOCTYPE html><br>
 <html><br>
     <body><br>
       <p>Avant le script..</p><br>
