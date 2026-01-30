@@ -8,22 +8,22 @@ et progresser vers TypeScript pas à pas.
 
 ## 📆 AUJOURD’HUI
 
-- [ ] Revoir les variables (`let`, `const`)
-- [ ] Faire 3 exercices simples
-- [ ] Ajouter mes notes dans `journal.md`
+- [x] Introduction à JavaScript
+- [x] Qu’est-ce que JavaScript et à quoi il sert
+- [x] Où s’exécute JavaScript (navigateur, autres environnements)
 
 ---
 
 ## ✅ DÉJÀ ACCOMPLI
 - [x] Créer le repository GitHub
 - [x] Organiser les dossiers (JS / TS / notes)
-- [x] Comprendre à quoi sert JavaScript
+
 
 ---
 
 ## 🧱 PHASE 1 : Bases JavaScript
 - [x] Introduction à JavaScript
-- [x] Variables
+- [ ] Variables
 - [ ] Conditions (`if / else`)
 - [ ] Boucles
 - [ ] Fonctions
