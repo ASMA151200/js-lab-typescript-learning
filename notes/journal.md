@@ -1,35 +1,19 @@
-ce que j'ai appris ajourd'hui<br>
-.Qu'est ce que JavaScript?<br>
-.Ce que JavaScript peut faire dans le navigateur<br>
-Le fait que JavaScript :<br>
-.a d’abord été créé pour le navigateur<br>
-.est maintenant utilisé dans d’autres environnements<br>
-.est le langage le plus intégré au HTML/CSS<br>
-L’existence des langages transpilés vers JavaScript<br>
-.Les IDE et éditeurs de texte<br>
-.Les outils de développement du navigateur<br>
-Voir les erreurs<br>
-.exécuter des commandes<br>
-.inspecter des variables<br>
-Comment ajouter JavaScript :<br>
-.avec <script> dans le HTML<br>
-.avec un fichier externe<br>
-Mes premières lignes de code<br>
-.alert() dans le HTML<br>
-<!DOCTYPE html><br>
-<html><br>
-    <body><br>
-      <p>Avant le script..</p><br>
-        <script>alert('Hello word!')</script><br>
-      <p>Apres le script.</p><br>
-    </body><br>
-</html><br>
-.alert() avec script externe<br>
-<!DOCTYPE html><br>
-<html><br>
-    <body><br>
-        <script src="alert.js"></script><br>
-    </body><br>
-</html><br>
-pour le fichier alert.js <br>
-alert('Je suis Javascript');<br>
+## Jour 1 – Introduction à JavaScript
+
+### Ce que j’ai appris
+- Ce qu’est JavaScript et son rôle dans le navigateur
+- Ce que JavaScript peut faire lorsqu’il est intégré au navigateur
+- Le lien fort entre JavaScript, HTML et CSS
+- Que JavaScript n’est plus limité au navigateur
+- L’existence des langages transpilés vers JavaScript
+- Les IDE et éditeurs de texte
+- Les outils de développement du navigateur (console, erreurs, variables)
+
+### Pratique
+- Utilisation de la balise `<script>` directement dans le HTML
+- Utilisation d’un fichier JavaScript externe avec `src`
+- Exécution de mes premières lignes de code avec `alert()`
+
+### Ressenti
+- Contenu dense mais intéressant
+- Contente d’avoir exécuté mon premier code JavaScript
