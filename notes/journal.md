@@ -17,3 +17,9 @@
 ### Ressenti
 - Contenu dense mais intéressant
 - Contente d’avoir exécuté mon premier code JavaScript
+  
+### Jour 2 - Les types de variables 
+- Compris la différence entre let et const
+- Utilisé alert() pour afficher des variables
+- Encore un peu confuse mais je progresse
+
