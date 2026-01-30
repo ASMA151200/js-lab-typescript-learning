@@ -1,12 +1,12 @@
-ce que j'ai appris ajourd'hui
-.Qu'est ce que JavaScript?
-.Ce que JavaScript peut faire dans le navigateur
-Le fait que JavaScript :
-.a d’abord été créé pour le navigateur
-.est maintenant utilisé dans d’autres environnements
-.est le langage le plus intégré au HTML/CSS
-L’existence des langages transpilés vers JavaScript
-.Les IDE et éditeurs de texte
+ce que j'ai appris ajourd'hui<br>
+.Qu'est ce que JavaScript?<br>
+.Ce que JavaScript peut faire dans le navigateur<br>
+Le fait que JavaScript :<br>
+.a d’abord été créé pour le navigateur<br>
+.est maintenant utilisé dans d’autres environnements<br>
+.est le langage le plus intégré au HTML/CSS<br>
+L’existence des langages transpilés vers JavaScript<br>
+.Les IDE et éditeurs de texte<br>
 .Les outils de développement du navigateur
 Voir les erreurs
 .exécuter des commandes
