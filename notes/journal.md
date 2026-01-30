@@ -7,29 +7,29 @@ Le fait que JavaScript :<br>
 .est le langage le plus intégré au HTML/CSS<br>
 L’existence des langages transpilés vers JavaScript<br>
 .Les IDE et éditeurs de texte<br>
-.Les outils de développement du navigateur
-Voir les erreurs
-.exécuter des commandes
-.inspecter des variables
-Comment ajouter JavaScript :
-.avec <script> dans le HTML
-.avec un fichier externe
-Mes premières lignes de code
-.alert() dans le HTML
-//<!DOCTYPE html>
-<html>
-    <body>
-      <p>Avant le script..</p>
-        <script>alert('Hello word!')</script>
-      <p>Apres le script.</p>
-    </body>
-</html>
-.alert() avec script externe
-<!DOCTYPE html>
-<html>
-    <body>
-        <script src="alert.js"></script>
-    </body>
-</html>
-pour le fichier alert.js 
-alert('Je suis Javascript');
+.Les outils de développement du navigateur<br>
+Voir les erreurs<br>
+.exécuter des commandes<br>
+.inspecter des variables<br>
+Comment ajouter JavaScript :<br>
+.avec <script> dans le HTML<br>
+.avec un fichier externe<br>
+Mes premières lignes de code<br>
+.alert() dans le HTML<br>
+//<!DOCTYPE html><br>
+<html><br>
+    <body><br>
+      <p>Avant le script..</p><br>
+        <script>alert('Hello word!')</script><br>
+      <p>Apres le script.</p><br>
+    </body><br>
+</html><br>
+.alert() avec script externe<br>
+<!DOCTYPE html><br>
+<html><br>
+    <body><br>
+        <script src="alert.js"></script><br>
+    </body><br>
+</html><br>
+pour le fichier alert.js <br>
+alert('Je suis Javascript');<br>
