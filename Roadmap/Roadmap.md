@@ -8,22 +8,28 @@ et progresser vers TypeScript pas à pas.
 
 ## 📆 AUJOURD’HUI
 
-- [x] Introduction à JavaScript
-- [x] Qu’est-ce que JavaScript et à quoi il sert
-- [x] Où s’exécute JavaScript (navigateur, autres environnements)
+- [x] Les variables
+- [x] diffèrence entre let et const
+- [x] modifier une variable
+- [x] concaténer du texte
+- [x] afficher le message avec alert()
 
 ---
 
 ## ✅ DÉJÀ ACCOMPLI
 - [x] Créer le repository GitHub
 - [x] Organiser les dossiers (JS / TS / notes)
-
+- [x] Introduction à JavaScript
+- [x] Qu’est-ce que JavaScript et à quoi il sert
+- [x] Où s’exécute JavaScript (navigateur, autres environnements)
+- [x] les types de script
 
 ---
 
 ## 🧱 PHASE 1 : Bases JavaScript
 - [x] Introduction à JavaScript
-- [ ] Variables
+- [x] Variables
+- [ ] 
 - [ ] Conditions (`if / else`)
 - [ ] Boucles
 - [ ] Fonctions
@@ -55,7 +61,7 @@ et progresser vers TypeScript pas à pas.
 ---
 
 ## 📝 Notes personnelles
-- Ce qui m’a posé problème :
-- Ce que j’ai compris :
-- Prochaine petite victoire :
+- Ce qui m’a posé problème : afficher les message j'avais du mal à savoir quoi ecrire à l'interieur de alert()
+- Ce que j’ai compris : diffèrence entre let et const , concaténer du texte , on ne peut pas modifier une valeur constante
+- Prochaine petite victoire :  comprendre les type de données
 
