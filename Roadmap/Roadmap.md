@@ -8,11 +8,7 @@ et progresser vers TypeScript pas à pas.
 
 ## 📆 AUJOURD’HUI
 
-- [x] Les variables
-- [x] diffèrence entre let et const
-- [x] modifier une variable
-- [x] concaténer du texte
-- [x] afficher le message avec alert()
+- [x] Interaction alert, prompt, confirm
 
 ---
 
@@ -23,6 +19,12 @@ et progresser vers TypeScript pas à pas.
 - [x] Qu’est-ce que JavaScript et à quoi il sert
 - [x] Où s’exécute JavaScript (navigateur, autres environnements)
 - [x] les types de script
+- [x] Les variables
+- [x] diffèrence entre let et const
+- [x] modifier une variable
+- [x] concaténer du texte
+- [x] afficher le message avec alert()
+- [x] les types de données
 
 ---
 
