@@ -41,3 +41,19 @@ Généralement utilisé comme , mais c’est aussi possible.typeof xtypeof(x)
 Retourne une chaîne avec le nom du type, comme ."string"
 Pour les retours – c’est une erreur dans le langage, ce n’est pas réellement un objet.null"object"
 Dans les prochains chapitres, nous nous concentrerons sur les valeurs primitives et, une fois que nous les connaissons, nous passerons aux objets.
+### Jour4 -Interaction: alert, prompt, confirm
+Nous avons couvert 3 fonctions spécifiques au navigateur pour interagir avec les visiteurs :
+
+alert
+Montre un message.
+prompt
+affiche un message demandant à l’utilisateur de saisir du texte. Il renvoie le texte ou, si le bouton Annuler est cliqué, .Escnull
+confirm
+affiche un message et attend que l’utilisateur appuie sur « OK » ou « Annuler ». Il revient pour OK et pour Annuler/.truefalseEsc
+Toutes ces méthodes sont modales : elles mettent en pause l’exécution du script et ne permettent pas au visiteur d’interagir avec le reste de la page tant que la fenêtre n’a pas été fermée.
+
+Il existe deux limites partagées par toutes les méthodes ci-dessus :
+
+L’emplacement exact de la fenêtre modale est déterminé par le navigateur. En général, c’est au centre.
+L’aspect exact de la fenêtre dépend aussi du navigateur. Nous ne pouvons pas le modifier.
+C’est le prix à payer pour la simplicité. Il existe d’autres moyens de montrer de meilleures fenêtres et une interaction plus riche avec le visiteur, mais si les « gadgets » n’ont pas vraiment d’importance, ces méthodes fonctionnent très bien.
